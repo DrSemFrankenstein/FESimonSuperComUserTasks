@@ -1,0 +1,139 @@
+{
+  "skills": [
+    {
+      "id": "e5edeb13-b376-4a44-a811-f2834ecc093e",
+      "category": "Physiological Needs",
+      "description": "Basic life needs such as air, water, food, shelter, and sleep.",
+      "subcategories": [
+        {
+          "id": "11527d32-0e44-48ca-b343-d415f5441523",
+          "category": "Air",
+          "subcategories": []
+        },
+        {
+          "id": "de42463d-1506-4670-80bc-02c6e2b72156",
+          "category": "Water",
+          "subcategories": []
+        },
+        {
+          "id": "1b7b8b1f-8853-4484-87c6-ed2a258e37ed",
+          "category": "Food",
+          "subcategories": []
+        },
+        {
+          "id": "a316fbb1-0780-4fcb-839b-602b5337609c",
+          "category": "Shelter",
+          "subcategories": []
+        },
+        {
+          "id": "fada8d2c-e52c-4031-9307-0ca71783925f",
+          "category": "Sleep",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "a39acbfd-d124-45c6-ac77-7ffa82506120",
+      "category": "Safety Needs",
+      "description": "Protection, security, order, law, stability, and freedom from fear.",
+      "subcategories": [
+        {
+          "id": "67aa07b4-2814-4294-9714-f2f6f965a33a",
+          "category": "Personal Security",
+          "subcategories": []
+        },
+        {
+          "id": "e9ad5563-7ba0-4b8f-9e6f-203615fdffbb",
+          "category": "Employment",
+          "subcategories": []
+        },
+        {
+          "id": "3258d2a2-7574-41e1-bac1-ba8ff8e66a58",
+          "category": "Resources",
+          "subcategories": []
+        },
+        {
+          "id": "6fd6a144-1483-4a35-ab55-40da642cf0eb",
+          "category": "Health",
+          "subcategories": []
+        },
+        {
+          "id": "6a39208f-8489-49a6-bc41-24cf49809f87",
+          "category": "Property",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "a0d7d346-4c3f-49cc-af2b-7e4485cf2323",
+      "category": "Love and Belongingness Needs",
+      "description": "Family, affection, relationships, and work group.",
+      "subcategories": [
+        {
+          "id": "31dd336e-c1ff-49e0-a71f-ecfeaf33a467",
+          "category": "Family",
+          "subcategories": []
+        },
+        {
+          "id": "06dc8225-228e-42e4-84b1-18dcdf0e472c",
+          "category": "Friendship",
+          "subcategories": []
+        },
+        {
+          "id": "95e800f1-9201-4a54-9010-931a2329d1c7",
+          "category": "Intimacy",
+          "subcategories": []
+        },
+        {
+          "id": "4a26888d-b513-49fc-a390-d6c051518baa",
+          "category": "Sense of Connection",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "271edbce-b2ed-4f3d-822d-f9be603777da",
+      "category": "Esteem Needs",
+      "description": "Achievement, status, responsibility, and reputation.",
+      "subcategories": [
+        {
+          "id": "9a194e88-ee2d-4a83-8aaf-876a46c30e3d",
+          "category": "Self-Esteem",
+          "subcategories": []
+        },
+        {
+          "id": "c3a4494f-47a2-483e-b64c-93b7d912cb80",
+          "category": "Respect",
+          "subcategories": []
+        },
+        {
+          "id": "29442daf-8f9c-4ccb-9a2b-094bc4fd408d",
+          "category": "Status",
+          "subcategories": []
+        },
+        {
+          "id": "3490cb2c-af8e-4690-9884-6f584d580f77",
+          "category": "Recognition",
+          "subcategories": []
+        },
+        {
+          "id": "1b8d1be6-9448-40da-9f09-a2de5bdfae28",
+          "category": "Strength",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "a779a4ee-378f-416f-b02d-f3d79e2f3997",
+      "category": "Self-Actualization",
+      "description": "Personal growth and fulfillment.",
+      "subcategories": []
+    }
+  ],
+  "initTitle": "Maslow's Hierarchy",
+  "initImage": {
+    "alt": "Maslow's Hierarchy",
+    "url": "",
+    "imageUrl": "https://pmhealthnp.com/wp-content/uploads/2019/10/Maslows-Hierarchy.png"
+  }
+}
